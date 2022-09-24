@@ -1,6 +1,6 @@
-# How to select the maximum of a column among a group of rows in SQL (MySQL)
+# Blog title
 
-In this tutorial we will demonstrate how to select the row with a maximum value for a given column among multiple rows 
+In this tutorials we will demonstrate how to select the row with a maximum value for a given column among multiple rows 
 in a table.
 
 
